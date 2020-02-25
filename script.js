@@ -103,5 +103,3 @@ function generatePassword() {
     }
     return password
 }
-
-password = ''
