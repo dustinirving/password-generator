@@ -8,15 +8,40 @@ With the given parameters a random password is generated and displayed when the 
 ##Description of Code
 The input for password length is first stored in a variable. The possible characters in their password is first initialized as an empty string. The characters they wish to include in their password are added to that empty string. A random number generator is used to choose an index in the concatenated string that will be added to their randomly generated password. A for loop is used to generate the randomly generated characters for the duration of their desired password length.
 
-Other notes:
-- While loops are used to ensure the user enters valid inputs
-- The string input is converted to a number for the password length
-- The toLowerCase function is used in case the user decides to input uppercase characters in the prompts (only if the input is not null)
+##Preventing Invalid User Iputs
+- If the user doesn't enter a number within the range then the user will be prompted again for a valid input. - If the user presses cancel when prompted for a password length then an empty string is returned
+- If the user doesn't choose any of the categories for their password they will be asked if the want to continue and then the same questions will be asked again
+
+##Screenshots
+1. Main Webpage
+![] (readmeImages/main.png)
+2. Password Length
+![] (readmeImages/passwordlength.png)
+3. Error Password Length
+![] (readmeImages/errpasswordlength.png)
+4. Null Password Length
+![] (readmeImages/nullpasslength.png)
+5. Description of the next steps alert
+![] (readmeImages/descrpassparam.png)
+6. Lower characters confirm
+![] (readmeImages/lowerchar.png)
+7. Upper characters confirm
+![] (readmeImages/upperchar.png)
+8. Numeric characters confirm
+![] (readmeImages/numericchar.png)
+9. Special characters confirm
+![] (readmeImages/specialchar.png)
+10. User did not choose one type of character for password
+![] (readmeImages/errorparam.png)
+11. Continue
+![] (readmeImages/continue.png)
+12. Example of a randonly generated password
+![] (readmeImages/passexample.png)
+
 
 ##Future Endevers
 
 1. Recreate the user interface
 2. Add additonal buttons to clear the generated password and generate another one
-3. Add additonal prompts for the user to choose more parameters for their password
+3. Add additonal prompts and or confirms for the user to choose more parameters for their password
 4. Refactor the code and ensure optimal runtime
-
