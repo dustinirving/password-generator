@@ -14,10 +14,6 @@ The input for password length is first stored in a variable. The possible charac
 
 ##Screenshots
 1. Main Webpage
-<<<<<<< HEAD
-<img scr="readmeImages/main.png" width="100">
-=======
->>>>>>> cf8258e3c341ad6ba99cad1ab9c0fa25608f9118
 ![](readmeImages/main.png)
 
 
@@ -59,8 +55,6 @@ The input for password length is first stored in a variable. The possible charac
 
 11. Continue
 ![](readmeImages/continue.png)
-
-
 12. Example of a randomly generated password
 ![](readmeImages/passexample.png)
 
