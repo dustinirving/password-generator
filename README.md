@@ -14,7 +14,7 @@ The input for password length is first stored in a variable. The possible charac
 
 ##Screenshots
 1. Main Webpage
-<img scr="readmeImages/main.png" width="300">
+<img scr="readmeImages/main.png" width="100">
 ![](readmeImages/main.png)
 2. Password Length
 ![](readmeImages/passwordlength.png)
