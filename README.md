@@ -33,11 +33,11 @@ The input for password length is first stored in a variable. The possible charac
 ![](readmeImages/descrpassparam.png)
 
 
-6. Lower characters confirm
+6. Lowercase characters confirm
 ![](readmeImages/lowerchar.png)
 
 
-7. Upper characters confirm
+7. Uppercase characters confirm
 ![](readmeImages/upperchar.png)
 
 
@@ -57,7 +57,7 @@ The input for password length is first stored in a variable. The possible charac
 ![](readmeImages/continue.png)
 
 
-12. Example of a randonly generated password
+12. Example of a randomly generated password
 ![](readmeImages/passexample.png)
 
 
