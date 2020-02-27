@@ -14,28 +14,49 @@ The input for password length is first stored in a variable. The possible charac
 
 ##Screenshots
 1. Main Webpage
-<img scr="readmeImages/main.png" width="300">
 ![](readmeImages/main.png)
+
+
 2. Password Length
 ![](readmeImages/passwordlength.png)
+
+
 3. Error Password Length
 ![](readmeImages/errpasswordlength.png)
+
+
 4. Null Password Length
 ![](readmeImages/nullpasslength.png)
+
+
 5. Description of the next steps alert
 ![](readmeImages/descrpassparam.png)
+
+
 6. Lower characters confirm
 ![](readmeImages/lowerchar.png)
+
+
 7. Upper characters confirm
 ![](readmeImages/upperchar.png)
+
+
 8. Numeric characters confirm
 ![](readmeImages/numericchar.png)
+
+
 9. Special characters confirm
 ![](readmeImages/specialchar.png)
+
+
 10. User did not choose one type of character for password
-![](readmeImages/errorparam.png)
+![](readmeImages/errparam.png)
+
+
 11. Continue
 ![](readmeImages/continue.png)
+
+
 12. Example of a randonly generated password
 ![](readmeImages/passexample.png)
 
