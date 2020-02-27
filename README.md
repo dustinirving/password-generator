@@ -14,29 +14,30 @@ The input for password length is first stored in a variable. The possible charac
 
 ##Screenshots
 1. Main Webpage
-![] (readmeImages/main.png)
+<img scr="readmeImages/main.png" width="300">
+![](readmeImages/main.png)
 2. Password Length
-![] (readmeImages/passwordlength.png)
+![](readmeImages/passwordlength.png)
 3. Error Password Length
-![] (readmeImages/errpasswordlength.png)
+![](readmeImages/errpasswordlength.png)
 4. Null Password Length
-![] (readmeImages/nullpasslength.png)
+![](readmeImages/nullpasslength.png)
 5. Description of the next steps alert
-![] (readmeImages/descrpassparam.png)
+![](readmeImages/descrpassparam.png)
 6. Lower characters confirm
-![] (readmeImages/lowerchar.png)
+![](readmeImages/lowerchar.png)
 7. Upper characters confirm
-![] (readmeImages/upperchar.png)
+![](readmeImages/upperchar.png)
 8. Numeric characters confirm
-![] (readmeImages/numericchar.png)
+![](readmeImages/numericchar.png)
 9. Special characters confirm
-![] (readmeImages/specialchar.png)
+![](readmeImages/specialchar.png)
 10. User did not choose one type of character for password
-![] (readmeImages/errorparam.png)
+![](readmeImages/errorparam.png)
 11. Continue
-![] (readmeImages/continue.png)
+![](readmeImages/continue.png)
 12. Example of a randonly generated password
-![] (readmeImages/passexample.png)
+![](readmeImages/passexample.png)
 
 
 ##Future Endevers
