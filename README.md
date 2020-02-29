@@ -1,5 +1,8 @@
 # password-generator
 
+ https://dustinirving.github.io/password-generator/
+
+
 ##Objective
 The main goal for this project was to create a random password generator. The user is prompted to specify the length of the password in a given range.
 They are also asked what type of characters they want to include in their password (lowercase, uppercase, numeric and/ or special).
